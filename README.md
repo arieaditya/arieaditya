@@ -1,17 +1,17 @@
-## Hi there, I'm Adit 👋🏻
+# Hi there, I'm Adit 👋🏻
 
 I'm a Front End Developer. I'm currently work in a startup company, where I develop and gain my experience as a developer.
 
 
-### [My Values](https://github.com/arieaditya/arieaditya#my-values)
+## My Values
 
-📈 Mindset of Learning & Growth
+📈 Mindset of Learning & Growth <br/>
 🙌 Teamwork & Communication
 
 
-### [Connect with Me](https://github.com/arieaditya/arieaditya#connect-with-me)
+## Connect with Me
 
-* Portfolio
+* Portfolio (on progress)
 * [Instagram](https://www.instagram.com/adit739/)
 * [Linkedin](https://www.linkedin.com/in/arieadityanugraha/)
 * [Twitter](https://twitter.com/arie739)
