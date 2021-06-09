@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Adit 👋🏻
+
+I'm a Front End Developer. I'm currently work in a startup company, where I develop and gain my experience as a developer.
+
+
+### [My Values](https://github.com/arieaditya/arieaditya#my-values)
+
+📈 Mindset of Learning & Growth
+🙌 Teamwork & Communication
+
+
+### [Connect with Me](https://github.com/arieaditya/arieaditya#connect-with-me)
+
+* Portfolio
+* [Instagram](https://www.instagram.com/adit739/)
+* [Linkedin](https://www.linkedin.com/in/arieadityanugraha/)
+* [Twitter](https://twitter.com/arie739)
 
 <!--
 **arieaditya/arieaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
