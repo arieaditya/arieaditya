@@ -12,9 +12,7 @@ I'm a Front End Developer. I'm currently work in a startup company, where I deve
 ## Connect with Me
 
 * [Portfolio - Work In Progress](https://www.iniadit.com/)
-* [Instagram](https://www.instagram.com/adit739/)
 * [Linkedin](https://www.linkedin.com/in/arieadityanugraha/)
-* [Twitter](https://twitter.com/arie739)
 
 <!--
 **arieaditya/arieaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
