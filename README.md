@@ -11,7 +11,7 @@ I'm a Front End Developer. I'm currently work in a startup company, where I deve
 
 ## Connect with Me
 
-* [Portfolio - Work In Progress](https://www.iniadit.com/)
+* [Portfolio](https://www.iniadit.netlify.app/)
 * [Linkedin](https://www.linkedin.com/in/arieadityanugraha/)
 
 <!--
